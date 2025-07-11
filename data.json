@@ -1,0 +1,6 @@
+{
+    "name": "your_name",
+    "email": "your_email@example.com",
+    "isAdmin": true,
+    "password": "your_password"
+}

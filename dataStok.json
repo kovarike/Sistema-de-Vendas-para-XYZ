@@ -1,0 +1,34 @@
+{
+    "categorias": [
+        {
+            "nome": "Notebook",
+            "produtos": [
+                { "codigo": "N001", "nome": "Notebook Dell", "preco": 3500.00 },
+                { "codigo": "N002", "nome": "Notebook HP", "preco": 3200.00 },
+                { "codigo": "N003", "nome": "Notebook Lenovo", "preco": 2800.00 },
+                { "codigo": "N004", "nome": "Notebook Acer", "preco": 3000.00 },
+                { "codigo": "N005", "nome": "Notebook Samsung", "preco": 3100.00 }
+            ]
+        },
+        {
+            "nome": "PC",
+            "produtos": [
+                { "codigo": "P001", "nome": "PC Gamer", "preco": 5000.00 },
+                { "codigo": "P002", "nome": "PC Escritório", "preco": 2500.00 },
+                { "codigo": "P003", "nome": "PC All-in-One", "preco": 4000.00 },
+                { "codigo": "P004", "nome": "PC Compacto", "preco": 2700.00 },
+                { "codigo": "P005", "nome": "PC Torre", "preco": 2900.00 }
+            ]
+        },
+        {
+            "nome": "Servidor",
+            "produtos": [
+                { "codigo": "S001", "nome": "Servidor Dell PowerEdge", "preco": 15000.00 },
+                { "codigo": "S002", "nome": "Servidor HP ProLiant", "preco": 14500.00 },
+                { "codigo": "S003", "nome": "Servidor IBM System x", "preco": 16000.00 },
+                { "codigo": "S004", "nome": "Servidor Lenovo ThinkSystem", "preco": 15500.00 },
+                { "codigo": "S005", "nome": "Servidor Supermicro", "preco": 14000.00 }
+            ]
+        }
+    ]
+}
